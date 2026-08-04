@@ -26,10 +26,6 @@ nombre = "Ana"
 ```
 
 
-
-
-
-
 ## Mis apuntes
+""" es para más de dos lineas, si es para una solo ". 
 
-Agrega aquí explicaciones redactadas con tus propias palabras.

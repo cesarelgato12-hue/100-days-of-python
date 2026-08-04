@@ -4,17 +4,6 @@ Este repositorio documenta mi progreso en el curso **100 Days of Code – The Co
 
 Mi objetivo es aprender Python mediante la práctica constante, desarrollar proyectos y construir un portafolio que muestre mi evolución.
 
-## 📌 Progreso
-
-- [x] Día 1 — Fundamentos de Python
-- [ ] Día 2 — Tipos de datos y operaciones
-- [ ] Día 3 — Condicionales
-- [ ] Día 4 — Listas y números aleatorios
-- [ ] Día 5 — Bucles
-- [ ] Día 6 — Funciones
-- [ ] Día 7 — Proyecto práctico
-
-Actualizaré esta lista conforme avance.
 
 ## 📂 Organización
 

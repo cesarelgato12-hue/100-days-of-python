@@ -28,9 +28,5 @@ py day-001-band-name-generator/main.py
 
 ## Reflexión personal
 
-Escribe aquí:
-
-- Qué aprendiste.
-- Qué parte fue difícil.
-- Qué error encontraste.
-- Qué mejorarías en una segunda versión.
+string es cadenas en español xd
+""" es para más de dos lineas, si es para una solo ". 
