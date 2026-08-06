@@ -28,5 +28,8 @@ py day-001-band-name-generator/main.py
 
 ## Reflexión personal
 
-string es cadenas en español xd
+string es cadenas en español 
+
 """ es para más de dos lineas, si es para una solo ". 
+
+len() es para contar las palabras dentro del texto: Felipe = 6 palabras 
