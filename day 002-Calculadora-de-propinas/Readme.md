@@ -1,4 +1,4 @@
-# Día 2 — Generador de nombres para bandas
+# Día 2 — Generador de propinas
 
 ## Descripción
 
