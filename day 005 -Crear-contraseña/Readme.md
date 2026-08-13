@@ -1,4 +1,4 @@
-# Día 4 — Piedra,papel o tijera
+# Día 5 — Password
 
 ## Descripción
 

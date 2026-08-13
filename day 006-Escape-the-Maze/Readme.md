@@ -1,4 +1,4 @@
-# Día 4 — Piedra,papel o tijera
+# Día 6 — funciones con Reebor`s World
 
 ## Descripción
 
